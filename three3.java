@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class PositiveNegative {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -14,3 +15,4 @@ public class PositiveNegative {
 		System.out.println("Changed by Aishik!");
 	}
 }
+
