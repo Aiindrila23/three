@@ -1,14 +1,14 @@
 import java.util.Scanner;
 
-public class PositiveNegative {
-	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
-		System.out.println("Enter number: ");
-		int number = sc.nextInt();
-		
-		if(number>=0)
-			System.out.println("Positive");
-		else
-			System.out.println("Negative");
-	}
+public class arr2 {
+public static void main(String[] args) {
+   
+	float  arr[]=new float[3];
+    arr[0]=10;
+    arr[1]=20;
+    arr[2]=30;
+    System.out.println(arr[0]);
+    System.out.println(arr[1]);
+    System.out.println(arr[2]);
+}
 }
